@@ -1,5 +1,5 @@
 /*  Accept number from user and display below pattern
-    Input= 5							 Input= 4	               
+    Input= 5			              Input= 4	               
     Output= 1 2 3 4 5   		      Output=  1 2 3 4
 	    1 2 3 4 5				       1 2 3 4
 	    1 2 3 4 5				       1 2 3 4
