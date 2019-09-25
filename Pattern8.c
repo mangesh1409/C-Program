@@ -1,5 +1,5 @@
 //  Accept number from user and display below pattern
-//  Input= 5												Input=3	               
+//  Input= 5						Input=3	               
 //  Output= 1 2 3 4 5  * * * * * 5 4 3 2 1  		Output=  1 2 3 * * * 3 2 1
 
 #include<stdio.h>
