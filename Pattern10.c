@@ -1,10 +1,10 @@
 /*  Accept number from user and display below pattern
     Input= 5								               
     Output= 1 1 1 1 1   		     
-			    2 2 2 2 2				
-			    3 3 3 3 3
-			    4 4 4 4 4
-			    5 5 5 5 5                                                                */
+	    2 2 2 2 2				
+	    3 3 3 3 3
+	    4 4 4 4 4
+	    5 5 5 5 5                                   */
 				
 #include<stdio.h>
 
