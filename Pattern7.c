@@ -1,6 +1,6 @@
 //  Accept number from user and display below pattern
-//  Input= 5											Input=3	               
-//  Output= 3 * 6 * 9 * 12 * 15 *  			Output=  3 * 6 * 9 *
+//  Input= 5				Input=3	               
+//  Output= 3 * 6 * 9 * 12 * 15 * 	Output=  3 * 6 * 9 *
 
 #include<stdio.h>
 
