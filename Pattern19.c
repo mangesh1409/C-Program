@@ -1,6 +1,7 @@
 /*  Accept number from user and display below pattern
     Input= 5 
-    Output= 1 5 1 5 1
+    Output= 
+    				1 5 1 5 1
     				2 4 2 4 2
     				3 3 3 3 3
     				4 2 4 2 4
