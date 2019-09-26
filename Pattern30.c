@@ -1,6 +1,6 @@
 /*  Accept number of rows and columns from user and display below pattern
     Input= 	iRow=5   iCol=5
-    Output=   a b c d e
+    Output=   			 a b c d e
     				 a b c d e
     				 a b c d e
     				 a b c d e
