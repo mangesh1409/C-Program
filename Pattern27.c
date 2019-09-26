@@ -1,10 +1,10 @@
 /*  Accept number of rows and columns from user and display below pattern
     Input= 	iRow=5   iCol=5
-    Output=   A A A A A
-    				 B B B B B
+    Output=   			 A A A A A
+    	       			 B B B B B
     				 C C C C C
     				 D D D D D
-    				 E E E E E     				   		                                                               */
+    				 E E E E E                                  */
 				
 #include<stdio.h>
 
