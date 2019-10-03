@@ -1,9 +1,9 @@
 /* Accept N number from user and accept range, Display all numbers from that range
 	Input: 
-				N: 10
-				Elements:  34  56  98  67  23  50  123  74  34  90
-				Start: 50
-				End:  90
+		N: 10
+		Elements:  34  56  98  67  23  50  123  74  34  90
+		Start: 50
+		End:  90
 	Output:  56  67  50  74  90								*/
 	
 #include<stdio.h>
