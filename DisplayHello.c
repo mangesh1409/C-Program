@@ -1,6 +1,6 @@
 /* Accept number from user and print that times of  "Hello" on screen
 	Input:   		5
-	Output:    	Hello   Hello   Hello   Hello   Hello								*/
+	Output:    	Hello   Hello   Hello   Hello   Hello		*/
 	
 #include<stdio.h>
 
