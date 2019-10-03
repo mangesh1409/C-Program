@@ -1,9 +1,9 @@
-/*    Accept N numbers from user and one another number as No and return frequency of that number
-	  Input :
-				N : 10
-				Elements : 85  66  3  45  66  65  66 13  66  32
-				No:	66
-	  Output :		4     																		*/
+/* Accept N numbers from user and one another number as No and return frequency of that number
+    Input :
+            N : 10
+	    Elements : 85  66  3  45  66  65  66 13  66  32
+	    No:	66
+    Output :	4 									*/
 
 #include<stdio.h>
 #include<stdlib.h>
