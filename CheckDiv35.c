@@ -1,6 +1,6 @@
 /* Accept number from user and check wheather that number is divisible by 3 & 5
 	Input:  27       Output:  NOT Divisible
-	Input:  15	    Output:  Divisible by 3 & 5																		*/
+	Input:  15	 Output:  Divisible by 3 & 5 				*/
 	
 #include<stdio.h>
 
