@@ -1,8 +1,8 @@
-/*    Accept N numbers from user and return frequency of even numbers
-	  Input :
-				N : 10
-				Elements : 85  66  3  45  66  65  66 13  66  32
-	  Output :		5     																		*/
+/* Accept N numbers from user and return frequency of even numbers
+    Input :
+            N : 10
+	    Elements : 85  66  3  45  66  65  66 13  66  32
+    Output :	5      							*/
 
 #include<stdio.h>
 #include<stdlib.h>
