@@ -1,21 +1,35 @@
-//Accept numbers from user and add them until we get number as -1 from user and print the addition
-
+/* Accept two numbers from user and return addition of that numbers  
+	Input:  7,  5
+	Output:  12										*/
+	
+	
 #include<stdio.h>
+
+int Addition(int , int);
 
 int main()
 {
-	int iValue=0;
-	int iSum=0;
+	int iValue1=0, iValue2=0,iRet=0;
 	
-	printf("Enter number: ");
-	scanf("%d",&iValue);
+	printf("Enter 1st number: ");
+	scanf("%d",&iValue1);
 	
-	while(!(iValue==-1))
-	{
-		iSum=iSum+iValue;
-		scanf("%d",&iValue);
-	}
-	printf("Addition is %d \n",iSum);
+	printf("Enter 2nd number: ");
+	scanf("%d",&iValue2);
+	
+	iRet=Addition(iValue1,iValue2);
+	
+	printf("Addition is %d\n",iRet);
 	
 	return 0;
 }
+
+int Addition(int iNo1, int iNo2)
+{
+	int iAns=0;
+	
+	iAns=iNo1+iNo2;
+	
+	return iAns;
+}
+	
