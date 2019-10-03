@@ -1,10 +1,9 @@
-/*    Accept N numbers from user and one another number as No and check
-	   wheather that number is present in it or not 
-	  Input :
-				N : 10
-				Elements : 85  66  3  45  66  65  66 13  65 32
-				No:	65
-	Output : Number is Present	     												*/
+/* Accept N numbers from user and one another number as No and check wheather that number is present in it or not 
+	Input :
+		N : 10
+		Elements : 85  66  3  45  66  65  66 13  65 32
+		No:	65
+	Output : Number is Present										*/
 
 #include<stdio.h>
 #include<stdlib.h>
