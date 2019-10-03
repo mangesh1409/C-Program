@@ -1,8 +1,8 @@
 /*    Accept N numbers from user and return summation of all even numbers
 	  Input :
-					N : 6
-					Elements : 85  66  3  80  93  88
-	  Output :	234     																		*/
+		    N : 6
+		    Elements : 85  66  3  80  93  88
+	  Output :  234     						*/
 
 #include<stdio.h>
 #include<stdlib.h>
