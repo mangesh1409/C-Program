@@ -1,8 +1,8 @@
-/*    Accept N numbers from user and return frequency of 11
-	  Input :
-				N : 10
-				Elements : 85  11  3  45  11  65  66 13  11  11
-	   Output :		4     																		*/
+/*  Accept N numbers from user and return frequency of 11
+	Input :
+		N : 10
+		Elements : 85  11  3  45  11  65  66 13  11  11
+	Output :   4 						*/
 
 #include<stdio.h>
 #include<stdlib.h>
