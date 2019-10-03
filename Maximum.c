@@ -1,6 +1,6 @@
 /* Accept 2 number from user and return largest number from that numbers
 	Input:      12    45
-	Output:		45																				*/
+	Output:		45						*/
 	
 #include<stdio.h>
 
