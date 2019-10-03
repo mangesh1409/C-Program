@@ -1,6 +1,6 @@
 /* Accept number from user and print additon of 1 to that number 
-	Input:    		5											7
-	Output:      1+2+3+4+5=15			1+2+3+4+5+6+7=28			*/
+	Input: 		5			7
+	Output:      1+2+3+4+5=15	1+2+3+4+5+6+7=28	*/
 	
 #include<stdio.h>
 
