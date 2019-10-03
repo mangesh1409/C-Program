@@ -7,7 +7,7 @@
 #define  TRUE  1
 #define  FALSE  0
 
-typedef int BOOL
+typedef int BOOL;
 
 BOOL Check(int);
 
